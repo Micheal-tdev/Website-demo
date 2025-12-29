@@ -211,12 +211,15 @@ ease;
 ease;
 }
 
-.cards:hover {
+.cards:hover  {
     transform: translateY(-10px);
     background-color: #003366;
-    color: #ddd;
     transition: all 0.3s 
 ease;
+}
+
+.cards:hover h3 {
+    color: white;
 }
 
 .skill-tags span {
