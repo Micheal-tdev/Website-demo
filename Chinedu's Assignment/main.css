@@ -149,7 +149,7 @@ ease;
 .hero-image{
     width: 400px;
     height: 400px;
-    background-color: #ddd;
+    /* background-color: #ddd; */
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -157,8 +157,8 @@ ease;
     flex-direction: column;
     color: #666;
     border: 8px soid #f4f7f6;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-}
+    /* box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);  */
+} 
 
 .skills_sect{
     padding: 80px 10%;
@@ -293,9 +293,4 @@ footer h2 {
 
 .number {
     color: #ffffff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-
-
-
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
