@@ -142,7 +142,7 @@ ease;
 .sdy-btn:hover {
     background-color: #003366;
     color: #ffffff;
-     transition: all 0.3s 
+    transition: all 0.3s 
 ease;
 }
 
@@ -157,6 +157,7 @@ ease;
     flex-direction: column;
     color: #666;
     border: 8px soid #f4f7f6;
+    margin-bottom: 250px;
     /* box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);  */
 } 
 
@@ -291,6 +292,20 @@ footer h2 {
     background-color: #f4f7f6;
 }
 
+
+.connect {
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.abuja {
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
 .number {
     color: #ffffff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
